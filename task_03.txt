@@ -1,0 +1,3 @@
+Запустить локальную Википедию с хранением статей в базе данных.
+
+https://github.com/aliaskov/docker-principles/blob/master/mediawiki_docker-compose.yml
